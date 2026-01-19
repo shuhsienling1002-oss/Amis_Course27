@@ -93,7 +93,7 @@ sentences = [
     {"amis": "Miharatengay kako to misowalan no miso i nacila.", "chi": "我想著你昨天所說的話。", "icon": "🤔", "source": "Row 319"},
     {"amis": "Mipalo ko kapah no niyaro' takowanan.", "chi": "部落的青年揍我。", "icon": "👊", "source": "Row 385"},
     {"amis": "Masasowal ko mato'asay.", "chi": "老人互相聊天。", "icon": "🗣️", "source": "Row 402"},
-    {"amis": "Mahakelong kita a tayra i pitilidan anocila.", "chi": "我們明天一起去學校。", "icon": "👫", "source": "Row 485"},
+    {"amis": "Mahakelong kita a tayra i pitilidan a nocila.", "chi": "我們明天一起去學校。", "icon": "👫", "source": "Row 485"},
     {"amis": "Misa'icel kako a mitilid, 'arawhani, tatiih ko pilifet.", "chi": "我很努力讀書，其實呢，考試不理想。", "icon": "📝", "source": "Row 473"},
 ]
 
@@ -266,3 +266,4 @@ with tab2:
             
             st.session_state.quiz_questions = final_qs
             safe_rerun()
+
